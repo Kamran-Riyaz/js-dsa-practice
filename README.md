@@ -35,7 +35,7 @@ Find the Largest of 3 Numbers.
 ## ✅ Problem 3: Even Numbers
 
 ### Description
-Even numbers between 1 and 50.
+Print only Even numbers between 1 and 50.
 
 ### Approaches
 
