@@ -32,4 +32,17 @@ Find the Largest of 3 Numbers.
 2. **Math & Array-Based Approach**  
    Uses Math.max(...array) with array functions to determine the greatest value and optionally handle ties.
 
+## ✅ Problem 3: Even Numbers
+
+### Description
+Even numbers between 1 and 50.
+
+### Approaches
+
+1. **Conditional Check Approach**  
+   Loops through every number in the range and uses an if statement to check if the number is even (i % 2 === 0).
+
+2. **Optimized Incremental Approach**  
+   Starts from the first even number in the range and increases the counter by 2 each time to directly reach the next even number.
+
 ### Folder Structure
