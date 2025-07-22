@@ -19,4 +19,17 @@ Swap the values of two variables using different approaches in JavaScript.
 3. **Using Arithmetic Operations (No Temp Variable)**  
    Swaps the numbers using addition and subtraction (no third variable used).
 
+## ✅ Problem 2: Largest of Three Numbers
+
+### Description
+Find the Largest of 3 Numbers.
+
+### Approaches
+
+1. **Conditional Comparison Approach**  
+   Uses if-else statements to manually compare each number..
+
+2. **Math & Array-Based Approach**  
+   Uses Math.max(...array) with array functions to determine the greatest value and optionally handle ties.
+
 ### Folder Structure
