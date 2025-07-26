@@ -45,4 +45,17 @@ Print only Even numbers between 1 and 50.
 2. **Optimized Incremental Approach**  
    Starts from the first even number in the range and increases the counter by 2 each time to directly reach the next even number.
 
+## ✅ Problem 4: Sum of First n Natural Numbers
+
+### Description
+Compute the sum of the first n natural numbers using the formula n(n + 1)/2.
+
+### Approaches
+
+1. **Iterative Loop Approach**  
+   Loop from 1 to n, adding each number to a running sum.
+
+2. **Mathematical Formula Approach**  
+   Directly compute using the formula n(n + 1)/2.
+
 ### Folder Structure
