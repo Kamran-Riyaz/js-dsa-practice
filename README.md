@@ -58,4 +58,17 @@ Compute the sum of the first n natural numbers using the formula n(n + 1)/2.
 2. **Mathematical Formula Approach**  
    Directly compute using the formula n(n + 1)/2.
 
+## ✅ Problem 5: Reverse a String
+
+### Description
+Reverse a given string (e.g., "Hello" → "olleH").
+
+### Approaches
+
+1. **Iterative Loop with Array Push**  
+   Start from the end of the string, push each character into an array, and join the array to form the reversed string.
+
+2. **Built-in One-Liner Approach (Recommended)**  
+   Use JavaScript's built-in string and array methods to reverse the string in a concise and readable way.
+
 ### Folder Structure
